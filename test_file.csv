@@ -1,0 +1,5 @@
+message ,airline_code ,number_of_fellow_passenger,did_receive_compensation ,total_compensation_amount 
+abc,A1,10,true,3000
+def,B2,5,false,2000
+ghi,C3,1,true,1000
+jkl,C3,2,true,2500

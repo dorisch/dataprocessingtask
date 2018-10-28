@@ -1,0 +1,31 @@
+[
+  {
+    "message": "abc",
+    "airline_code": "A1",
+    "number_of_fellow_passenger": 10,
+    "did_receive_compensation": true,
+    "total_compensation_amount": 3000
+  },
+  {
+    "message": "def",
+    "airline_code": "B2",
+    "number_of_fellow_passenger": 5,
+    "did_receive_compensation": false,
+    "total_compensation_amount": 2000
+  },
+  {
+    "message": "ghi",
+    "airline_code": "C3",
+    "number_of_fellow_passenger": 1,
+    "did_receive_compensation": true,
+    "total_compensation_amount": 1000
+  }
+  ,
+  {
+    "message": "jkl",
+    "airline_code": "C3",
+    "number_of_fellow_passenger": 2,
+    "did_receive_compensation": true,
+    "total_compensation_amount": 2500
+  }
+]
